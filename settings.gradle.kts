@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TODOapp"
+rootProject.name = "todoApp"
+include(":androidApp")
 include(":shared")

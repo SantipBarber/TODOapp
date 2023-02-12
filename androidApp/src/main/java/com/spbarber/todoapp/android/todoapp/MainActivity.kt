@@ -28,8 +28,7 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colors.background
                 ) {
                     // GreetingView(Greeting().greet())
-                    //TaskScreen(taskViewModel)
-                    TaskScreen()
+                    TaskScreen(taskViewModel)
                 }
             }
         }

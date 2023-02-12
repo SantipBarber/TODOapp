@@ -3,6 +3,6 @@
 3    package="com.spbarber.todoapp" >
 4
 5    <uses-sdk android:minSdkVersion="24" />
-5-->/Users/spbarber/Desktop/TODOapp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2139046407916107474.xml
+5-->/Users/spbarber/Desktop/TODOapp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4635289183602336604.xml
 6
 7</manifest>

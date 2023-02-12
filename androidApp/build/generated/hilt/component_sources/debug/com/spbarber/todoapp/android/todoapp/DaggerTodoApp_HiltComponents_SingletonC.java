@@ -353,7 +353,7 @@ public final class DaggerTodoApp_HiltComponents_SingletonC {
     }
 
     @Override
-    public void injectMainActivity(MainActivity arg0) {
+    public void injectMainActivity(MainActivity mainActivity) {
     }
 
     @Override
@@ -481,7 +481,7 @@ public final class DaggerTodoApp_HiltComponents_SingletonC {
     }
 
     @Override
-    public void injectTodoApp(TodoApp arg0) {
+    public void injectTodoApp(TodoApp todoApp) {
     }
 
     @Override

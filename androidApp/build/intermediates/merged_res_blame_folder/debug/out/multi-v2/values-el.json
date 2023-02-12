@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.spbarber.todoapp.android.androidApp-mergeDebugResources-39:/values-el/values-el.xml",
+            "outputFile": "com.spbarber.todoapp.android.androidApp-mergeDebugResources-46:/values-el/values-el.xml",
             "map": [
                 {
                     "source": "/Users/spbarber/.gradle/caches/transforms-3/d1c4a6b158167018b519cd2f28b61d39/transformed/ui-1.3.3/res/values-el/values-el.xml",

@@ -5,7 +5,7 @@ import androidx.compose.ui.geometry.Offset
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.spbarber.todoapp.android.todoapp.data.model.Task
+import com.spbarber.todoapp.android.todoapp.ui.model.Task
 import javax.inject.Inject
 
 class TaskViewModel @Inject constructor(): ViewModel() {
